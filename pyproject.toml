@@ -1,0 +1,7 @@
+[project]
+name = "advent-of-code"
+version = "0.1.0"
+description = "Collection of my Advent of Code puzzle solutions, organized by year and day"
+readme = "readme.md"
+requires-python = ">=3.13"
+dependencies = ["numpy"]
